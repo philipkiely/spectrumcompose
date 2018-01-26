@@ -1,3 +1,3 @@
-# autogarrison
+# spectrumcompose
 
-Copy and paste your assignment text, then press "grade" to flag the forbidden words (is, are, was, were) and any repeated words in a sentence.
+Compose text on a large textarea while the background changes colors. Color changes are mapped to keystrokes using an array of colors modified from http://phrogz.net/css/distinct-colors.html
